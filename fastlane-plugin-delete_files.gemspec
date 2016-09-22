@@ -6,7 +6,7 @@ require 'fastlane/plugin/delete_files/version'
 Gem::Specification.new do |spec|
   spec.name          = 'fastlane-plugin-delete_files'
   spec.version       = Fastlane::DeleteFiles::VERSION
-  spec.author        = %q{Gary Johnson}
+  spec.author        = %q{GaryJohnson}
   spec.email         = %q{gary@gjtt.com}
 
   spec.summary       = %q{Deletes a file, folder or multiple files using shell glob pattern.}
