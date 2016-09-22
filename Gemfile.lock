@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    fastlane-plugin-delete_files (0.1.0)
+    fastlane-plugin-delete_files (0.1.1)
 
 GEM
   remote: https://rubygems.org/
